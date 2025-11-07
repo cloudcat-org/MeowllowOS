@@ -1,0 +1,12 @@
+[submodule "netpm"]
+	path = netpm
+	url = https://github.com/cloudcat-org/netpm.git
+[submodule "u-boot"]
+	path = u-boot
+	url = https://github.com/u-boot/u-boot
+[submodule "linux-next"]
+	path = linux-next
+	url = https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git
+[submodule "busybox"]
+	path = busybox
+	url = http://git.busybox.net/busybox
