@@ -4,9 +4,12 @@
 [submodule "u-boot"]
 	path = u-boot
 	url = https://github.com/u-boot/u-boot
+	shallow = true
 [submodule "linux-next"]
 	path = linux-next
 	url = https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git
+	shallow = true
 [submodule "busybox"]
 	path = busybox
 	url = http://git.busybox.net/busybox
+	shallow = true
